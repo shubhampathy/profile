@@ -112,7 +112,8 @@ margin: auto;}
   margin-right: 20px;
 }
 .profile{
-   padding: 50px 0 50px;
+   padding-top: 50px;
+  padding-bottom:50px;
 }
 .bottom{
 background-color: #17706e;
