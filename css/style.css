@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background-color: #ccf5ff;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 4.735rem;
+  margin: 50px auto 0 auto;
+  color: #393e46;
+}
+
+h2 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 2.50rem;
+  color: #393e46;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Kanit', sans-serif;
+}
+p{line-height: 2;}
+hr
+{
+  width: 10%;
+  border-width: 5px ;
+  border-style: dotted;
+  border-color: #393e46;
+  margin: 100px auto 100px;
+  border-bottom: none;
+}
+a{color: #204051;
+}
+a:hover{color: white;}
+.cloud1 {
+  position: absolute;
+  right: 320px;
+  top: 60px;
+}
+
+.top {
+  background-color: #ccf5ff;
+  margin: 0;
+  padding-top: 100px;
+  position: relative;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 320px;
+  bottom: 350px;
+}
+
+
+
+.skillrow {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contactme  {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Roboto;
+  color: WHITE;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.contactme:hover {
+  background: #230c4f;
+  background-image: -webkit-linear-gradient(top, #230c4f, #7c62ad);
+  background-image: -moz-linear-gradient(top, #230c4f, #7c62ad);
+  background-image: -ms-linear-gradient(top, #230c4f, #7c62ad);
+  background-image: -o-linear-gradient(top, #230c4f, #7c62ad);
+  background-image: linear-gradient(to bottom, #230c4f, #7c62ad);
+  text-decoration: none;
+
+}
+
+.code {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.love{width:40%;margin: auto;}
+.bio{width:40%;
+margin: auto;}
+.guitar {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.eat {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.profile{
+  padding-bottom: 50px;
+}
+.bottom{
+background-color: #17706e;
+margin-top: 100px;
+}
+.bottom{padding: 50px 0 20px;}
